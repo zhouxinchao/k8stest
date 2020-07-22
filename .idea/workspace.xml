@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f9faf6-521f-453a-bcb2-e9ed9e35a3a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,17 +100,33 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1595387989236" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595389739095">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595397078788">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595389739095" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595397078788" />
+    <state width="1323" height="294" key="GridCell.Tab.0.bottom" timestamp="1595398183911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="294" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595398183911" />
+    <state width="1323" height="294" key="GridCell.Tab.0.center" timestamp="1595398183911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="294" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595398183911" />
+    <state width="1323" height="294" key="GridCell.Tab.0.left" timestamp="1595398183910">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="294" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595398183910" />
+    <state width="1323" height="294" key="GridCell.Tab.0.right" timestamp="1595398183911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="294" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595398183911" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1595387906377">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595387906377" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595389762310">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595397087308">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595389762310" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595397087308" />
   </component>
 </project>
