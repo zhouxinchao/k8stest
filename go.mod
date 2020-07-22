@@ -1,4 +1,4 @@
-module k8stest
+module github.com/zhouxinchao/k8stest
 
 go 1.13
 
