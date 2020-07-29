@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f9faf6-521f-453a-bcb2-e9ed9e35a3a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/recommended.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/mian.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +102,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1595387989236" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595406477928">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595494084645">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595406477928" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595494084645" />
     <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1595471951052">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -124,9 +126,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595493236847" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595406486845">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595494095479">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595406486845" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595494095479" />
   </component>
 </project>

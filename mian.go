@@ -1,14 +1,21 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"fmt"
 	"net/http"
 )
 
+func index(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "<h1>Hello World</h1>")
+}
+
+func check(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "<h1>Health check</h1>")
+}
+
 func main() {
-	router := gin.Default()
-	router.GET("/ping", func(c *gin.Context) {
-		c.String(http.StatusOK, "PONG")
-	})
-	router.Run(":8080")
+	http.HandleFunc("/", index)
+	http.HandleFunc("/health_check", check)
+	fmt.Println("Server starting...")
+	http.ListenAndServe(":3000", nil)
 }
