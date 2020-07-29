@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f9faf6-521f-453a-bcb2-e9ed9e35a3a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recommended.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/mian.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,33 +99,37 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1595387989236" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595494084645">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1595992117795">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595494084645" />
-    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1595471951052">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595992117795" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1595992496306">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595471951052" />
-    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1595471951052">
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1595992496306" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1595992401028">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595471951052" />
-    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1595471951051">
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595992401028" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1595992401028">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595471951051" />
-    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1595471951052">
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595992401028" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1595992401027">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595471951052" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595992401027" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1595992401028">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595992401028" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1595493236847">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595493236847" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595494095479">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595992131253">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595494095479" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595992131253" />
   </component>
 </project>
